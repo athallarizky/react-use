@@ -77,5 +77,3 @@ src/parser.ts
 
 storybook-static/
 package-lock.json
-temp_auto_push.bat
-temp_interactive_push.bat
